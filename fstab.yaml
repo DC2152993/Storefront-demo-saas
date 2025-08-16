@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/DC2152993/Storefront-demo-saas/
+    type: markup
+
+folders:
+  /products/: /products/default
